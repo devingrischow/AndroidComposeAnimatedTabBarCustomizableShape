@@ -1,4 +1,6 @@
 
+![Tab Bar Demonstration](Tab_Bar_Animated_Vid_Square_Ratio.gif)
+
 # Android Compose Animated Tab Bar with Customizable Indent Shape
 
 This is a Navigation Tab Bar with a customizable animated indent shape made in and designed for Android Jetpack Compose. 
