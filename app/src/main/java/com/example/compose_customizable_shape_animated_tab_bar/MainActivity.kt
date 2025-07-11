@@ -221,8 +221,8 @@ fun ExampleScreen() {
         ){
             //Column Body
 
-            Text(text = "Hello World!",
-                color = Color.Red
+            Text(text = "Selected Tab ${selectedItemIndex.value}",
+                color = Color.Black
             )
 
         }
